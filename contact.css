@@ -1,0 +1,42 @@
+html{
+    background-color: #ffff;
+}
+
+body{
+    font-family: 'IM Fell English SC', serif;
+    text-align: center;
+    color: black;
+    text-transform: lowercase;
+}
+
+/* [Menu Bar] CSS formating*/
+li{
+    display: inline;
+    float: right;
+    font-size: 25px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+ a {
+    display:block;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration:none;
+    color: black;
+  }
+/* [Menu Bar] CSS formating*/
+
+:hover{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
